@@ -1,0 +1,7 @@
+//calcula la edad en dias
+
+let edad =15
+let resultado
+resultado = edad * 365
+
+console.log(resultado)
